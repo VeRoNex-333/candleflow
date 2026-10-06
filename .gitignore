@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets
+.env
+
+# Airflow
+logs/
+
+# dbt
+transform/target/
+transform/dbt_packages/
+transform/logs/
